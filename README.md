@@ -7,4 +7,4 @@
 2. من Settings ثم Pages اختر Source: GitHub Actions.
 3. بعد انتهاء الـ workflow يظهر رابط التطبيق في تبويب Actions.
 
-تطوير: Khader Abo Salha
+تطوير: Khader Abo Salha 
